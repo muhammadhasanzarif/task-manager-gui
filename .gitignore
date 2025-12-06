@@ -1,19 +1,57 @@
-# Python
+# -------------------------
+# Python ignores
+# -------------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.log
 
-# Build folders
-build/
-dist/
-*.spec
+# Byte-compiled / optimized / DLL files
+*.dll
+*.so
+*.dylib
 
 # Virtual environments
 venv/
 env/
+.venv/
 
-# OS junk files
+# -------------------------
+# PyInstaller build outputs
+# -------------------------
+build/
+dist/
+*.spec
+
+# Output EXE (optional to ignore)
+task_manager_gui.exe
+
+# -------------------------
+# App-generated files
+# -------------------------
+tasks.json
+
+# -------------------------
+# OS / IDE junk files
+# -------------------------
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Task data file
-tasks.json
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# -------------------------
+# User backup / temp files
+# -------------------------
+*.tmp
+*.bak
+*.swp
+*.psd  # tutorial PSD (optional remove)
