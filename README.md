@@ -1,5 +1,13 @@
 # Task Manager
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Stable-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GUI-Tkinter-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
+</p>
+
 A clean and simple **Task Manager** built with **Python + Tkinter**, featuring:
 
 - Add, complete, and delete tasks  
@@ -60,4 +68,5 @@ Run the application task_manager_gui.exe
 [![Delete Task](assets/tutorial_screenshots/images/FAQ_03-delete_a_task.jpg)](assets/tutorial_screenshots/images/FAQ_03-delete_a_task.jpg)
 
 ### Refresh
+
 [![Refresh](assets/tutorial_screenshots/images/FAQ_04-refresh.jpg)](assets/tutorial_screenshots/images/FAQ_04-refresh.jpg)
